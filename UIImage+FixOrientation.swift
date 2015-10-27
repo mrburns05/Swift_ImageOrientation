@@ -1,11 +1,12 @@
+
+'''
 //
 //  UIImage+FixOrientation.swift
-//  PXPanel
 //
 //  Created by Jacob Burns on 10/26/15.
-//  Copyright © 2015 jeba. All rights reserved.
 //
-
+//
+    
 import UIKit
 
 extension UIImage {
@@ -66,3 +67,4 @@ extension UIImage {
         return img
     }
 }
+'''
