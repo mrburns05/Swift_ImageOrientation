@@ -1,5 +1,5 @@
 
-'''
+
 //
 //  UIImage+FixOrientation.swift
 //
@@ -67,4 +67,3 @@ extension UIImage {
         return img
     }
 }
-'''
